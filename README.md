@@ -39,8 +39,6 @@
 - [Algorithms for Non CS Students](https://dev.to/johongirr/data-structures-for-complete-beginners-af5)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
-
 ---
  
   
