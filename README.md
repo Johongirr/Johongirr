@@ -38,7 +38,7 @@
 - [Improve your HTML&CSS by learning Box Model](https://dev.to/johongirr/learn-box-model-to-write-better-css-3dc6)
 - [Flexbox for Beginners](https://dev.to/johongirr/flexbox-basics-for-noobs-4bl3)
 - [Complete guide to Data Structures](https://dev.to/johongirr/data-structures-for-complete-beginners-af5)
-- [Algorithms for Non CS students](https://dev.to/johongirr/data-structures-for-complete-beginners-af5)
+- [Algorithms for Non CS Students](https://dev.to/johongirr/data-structures-for-complete-beginners-af5)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://codestackr.com)
