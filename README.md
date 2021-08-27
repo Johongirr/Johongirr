@@ -3,8 +3,7 @@
 
 ## I'm a Software Developer and Teacher
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to for a job
+- 🌱 I’m currently learning everything �
 - ⚡ Fun fact: I love meditating & reading
 
 <br />
