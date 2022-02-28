@@ -1,7 +1,7 @@
 ### Hi there, I'm Johongirr 
 
 
-## I'm a Software Developer and Teacher
+## I'm a Software Developer and Mentor
 
 - 🌱 I’m currently learning everything �
 - ⚡ Fun fact: I love meditating & reading
